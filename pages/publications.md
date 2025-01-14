@@ -6,7 +6,9 @@ permalink: /publications
 
 For an up to date list of all publications (including preprints), please see [Google scholar](https://scholar.google.com/citations?user=H4jO_DQAAAAJ&hl=en).
 
-[2024](#2024) [2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
+[2025](#2025) [2024](#2024) [2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
+
+## <a id="2025"></a>2025
 
 ## <a id="2024"></a>2024
 
@@ -33,6 +35,8 @@ For an up to date list of all publications (including preprints), please see [Go
 11. Carina Shiau, Jingyi Cao, Dennis Gong, Mark T Gregory, Nicholas J Caldwell, Xunqin Yin, Jae-Won Cho, Peter L Wang, Jennifer Su, Steven Wang, Jason W Reeves, Tae Kyung Kim, Youngmi Kim, Jimmy A Guo, Nicole A Lester, Jung Woo Bae, Ryan Zhao, Nathan Schurman, Jamie L Barth, Maria L Ganci, Ralph Weissleder, Tyler Jacks, Motaz Qadan, Theodore S Hong, Jennifer Y Wo, Hannah Roberts, Joseph M Beechem, Carlos Fernandez-del Castillo, Mari Mino-Kenudson, David T Ting, **Martin Hemberg**, William L Hwang, [*Spatially resolved analysis of pancreatic cancer identifies therapy-associated remodeling of the tumor microenvironment*](https://www.nature.com/articles/s41588-024-01890-9), **Nature Genetics**, Volume 56(9), 2024.
 
 12. Timothy PH Sit, Rachael C Feord, Alexander WE Dunn, Jeremi Chabros, David Oluigbo, Hugo H Smith, Lance Burn, Elise Chang, Alessio Boschi, Yin Yuan, George M Gibbons, Mahsa Khayat-Khoei, Francesco De Angelis, Erik Hemberg, **Martin Hemberg**, Madeline A Lancaster, Andras Lakatos, Stephen J Eglen, Ole Paulsen, Susanna B Miera, [*MEA-NAP: A flexible network analysis pipeline for neuronal 2D and 3D organoid multielectrode recordings*](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00291-1), **Cell Reports Methods**, Volume 4, Issue 11, November 2024.
+
+13. Candace SY Chan, Ioannis Mouratidis, Austin Montgomery, Georgios Christos Tsiatsianis, Nikol Chantzi, **Martin Hemberg**, Nadav Ahituv, Ilias Georgakopoulos-Soares, [*The topography of nullomer-emerging mutations and their relevance to human disease*](https://www.sciencedirect.com/science/article/pii/S2001037024004471), **Computational and Structural Biotechnology Journal**, Volume 30, December 2024.
 
 ## <a id="2023"></a>2023
 

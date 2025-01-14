@@ -29,33 +29,31 @@ permalink: /people
 
 <p style="text-align: center;">Peterson Gitonga (Postdoctoral fellow)</p>
 
-<img src="assets/img/alexa.jpeg" alt="Alexa Guan" width="200"/>
-
-<p style="text-align: center;">Alexa Guan (PhD student)</p>
-
 <img src="assets/img/yuyang.jpg" alt="Yuyang Han" width="200"/>
 
 <p style="text-align: center;">Yuyang Han (Data manager)</p>
+
+<p style="text-align: center;">Dylan Harwood (visiting PhD student)</p>
 
 <img src="assets/img/mh.jpg" alt="Martin Hemberg" width="200"/>
 
 <p style="text-align: center;">Martin Hemberg, PhD (Principal investigator)</p>
 
-<img src="assets/img/mayank.jpg" alt="Mayank Mahajan" width="200"/>
+<img src="assets/img/alexa.jpeg" alt="Alexa Mitchell" width="200"/>
 
-<p style="text-align: center;">Mayank Mahajan, PhD (Postdoctoral fellow)</p>
+<p style="text-align: center;">Alexa Mitchell (PhD student)</p>
 
 <img src="assets/img/nikos.jpg" alt="Nikolaos Patikas" width="200"/>
 
 <p style="text-align: center;">Nikolaos Patikas, PhD (Postdoctoral fellow)</p>
 
-<img src="assets/img/jeanna.jpg" alt="Jeanna Qui" width="200"/>
+<img src="assets/img/jeanna.jpg" alt="Jeanna Aberfeld-Qui" width="200"/>
 
-<p style="text-align: center;">Jeanna Qui (PhD student)</p>
+<p style="text-align: center;">Jeanna Aberfeld-Qui (PhD student)</p>
 
 <img src="assets/img/xutang.jpg" alt="Xu Tang" width="200"/>
 
-<p style="text-align: center;">Xu (Victoria) Tang (MSc student)</p>
+<p style="text-align: center;">Xu (Victoria) Tang (Research assistant)</p>
 
 <img src="assets/img/tilen.jpg" alt="Tilen Trselic" width="200"/>
 
@@ -96,6 +94,8 @@ permalink: /people
 * Songyun Li
 
 * Gloria Lugoboni
+
+* Mayank Mahajan
 
 * Johannes Mofors
 

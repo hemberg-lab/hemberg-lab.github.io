@@ -4,6 +4,24 @@ title: News
 permalink: /news
 ---
 
+### January 14, 2025
+
+Welcome Dylan Harwood! Dylan is visiting from the University of Copenhagen and he will be spending the next two months in Boston.
+
+### January 13, 2025
+
+<img src="assets/img/KR_MH.jpg" alt="Kevin Riehl and Martin Hemberg" width="600"/>
+
+It was great to see Kevin Riehl, a former MSc student who stopped by to visit in person for the first time. He was in the lab during the COVID pandemic, so he did all of his work remotely.
+
+### January 13, 2025
+
+Welcome back Victoria who joins the lab as a research assistant.
+
+### January 2, 2025
+
+Goodbye Mayank! Mayank is leaving after three years and we wish him all the best for the next stage.
+
 ### December 4, 2024
 
 Congratulations to Victoria Tang who passed her MSc viva with flying colors today.
