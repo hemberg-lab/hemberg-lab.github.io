@@ -11,7 +11,9 @@ permalink: /people
 
 ## Current members
 
-<p style="text-align: center;">Pranay Ammula</p>
+<img src="assets/img/jeanna.jpg" alt="Jeanna Abersfeld-Qui" width="200"/>
+
+<p style="text-align: center;">Jeanna Abersfeld-Qui (PhD student)</p>
 
 <img src="assets/img/shaokun.jpg" alt="Shaokun An" width="200"/>
 
@@ -21,10 +23,6 @@ permalink: /people
 
 <p style="text-align: center;">Jingyi Cao, PhD (Postdoctoral fellow)</p>
 
-<img src="assets/img/jaewon.jpg" alt="Jae-Won Cho" width="200"/>
-
-<p style="text-align: center;">Jae-Won Cho, PhD (Postdoctoral fellow)</p>
-
 <img src="assets/img/peterson.jpg" alt="Peterson Gitonga" width="200"/>
 
 <p style="text-align: center;">Peterson Gitonga (Postdoctoral fellow)</p>
@@ -32,8 +30,6 @@ permalink: /people
 <img src="assets/img/yuyang.jpg" alt="Yuyang Han" width="200"/>
 
 <p style="text-align: center;">Yuyang Han (Data manager)</p>
-
-<p style="text-align: center;">Dylan Harwood (visiting PhD student)</p>
 
 <img src="assets/img/mh.jpg" alt="Martin Hemberg" width="200"/>
 
@@ -47,17 +43,13 @@ permalink: /people
 
 <p style="text-align: center;">Nikolaos Patikas, PhD (Postdoctoral fellow)</p>
 
-<img src="assets/img/jeanna.jpg" alt="Jeanna Aberfeld-Qui" width="200"/>
-
-<p style="text-align: center;">Jeanna Aberfeld-Qui (PhD student)</p>
-
 <img src="assets/img/xutang.jpg" alt="Xu Tang" width="200"/>
 
 <p style="text-align: center;">Xu (Victoria) Tang (Research assistant)</p>
 
-<img src="assets/img/tilen.jpg" alt="Tilen Trselic" width="200"/>
+<img src="assets/img/xiaokun.jpg" alt="Xiaokun Yang" width="200"/>
 
-<p style="text-align: center;">Tilen Trselic (visiting PhD student)</p>
+<p style="text-align: center;">Xiaokun Yang (PhD student)</p>
 
 <p style="text-align: center;">Ulrika Yuan (PhD student)</p>
 
@@ -67,6 +59,8 @@ permalink: /people
 
 * Irina Abnizova
 
+* Pranay Ammula
+
 * Tallulah Andrews
 
 * Seungbyn Baek
@@ -75,9 +69,13 @@ permalink: /people
 
 * Junha Cha
 
+* Jae-won Cho
+
 * Ilias Georgakopoulos-Soares
 
 * Louis-Francois Handfeld
+
+* Dylan Harwood
 
 * Jacob Hepkema
 
@@ -122,6 +120,8 @@ permalink: /people
 * Sravanni Saripalli
 
 * Nicole Staudt
+
+* Tilen Trselic
 
 * Muhammad Toseef
 

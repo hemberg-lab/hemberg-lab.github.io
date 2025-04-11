@@ -4,6 +4,24 @@ title: News
 permalink: /news
 ---
 
+### April 4, 2025
+
+<img src="assets/img/tilenlab.jpg" alt="Tilen, lab" width="600"/>
+
+Goodbye Tilen! Tilen is heading back to Karolinska where he will be busy over the coming months, writing up his PhD thesis.
+
+### March 24, 2025
+
+Welcome Xiaokun Yang, who is joining as a PhD student from the Immunolgy program. He will be co-supervised with [Kai Wucherpfenning](https://t-cells-treating-cancer.dana-farber.org/).
+
+### March 7, 2025
+
+Goodbye Dylan! After a short but productive stay, Dylan is heading back to Denmark and we wish him all the best in finishing his PhD thesis.
+
+### February 21, 2025
+
+Farewell Jae-Won! Jae-Won is returning to Korea to take up a faculty position at Hanyang university and we are excited for the next stage of his career.
+
 ### January 14, 2025
 
 Welcome Dylan Harwood! Dylan is visiting from the University of Copenhagen and he will be spending the next two months in Boston.

@@ -10,6 +10,12 @@ For an up to date list of all publications (including preprints), please see [Go
 
 ## <a id="2025"></a>2025
 
+1. Candace SY Chan, Ioannis Mouratidis, Austin Montgomery, Georgios Christos Tsiatsianis, Nikol Chantzi, **Martin Hemberg**, Nadav Ahituv, Ilias Georgakopoulos-Soares, [*The topography of nullomer-emerging mutations and their relevance to human disease*](https://www.sciencedirect.com/science/article/pii/S2001037024004471), **Computational and Structural Biotechnology Journal**, 30, p1-11, 2025.
+
+2. Jimmy Tsz Hang Lee, Sam N Barnett, Kenny Roberts, Helen Ashwin, Luke Milross, Jae-Won Cho, Alik Huseynov, Benjamin Woodhams, Alexander Aivazidis, Tong Li, Joaquim Majo, Patricia Chaves, Michael Lee, Antonio MA Miranda, Zuzanna Jablonska, Vincenzo Arena, Brian Hanley, Michael Osborn, Virginie Uhlmann, Xiao-Ning Xu, Gary R McLean, Sarah A Teichmann, Anna M Randi, Andrew Filby, Paul M Kaye, Andrew J Fisher, **Martin Hemberg**, Michela Noseda, Omer Ali Bayraktar, [*Integrated histopathology, spatial and single cell transcriptomics resolve cellular drivers of early and late alveolar damage in COVID-19*](https://www.nature.com/articles/s41467-025-56473-x), **Nature Communications**, 16(1), p1979, 2025.
+
+3. Fu Xiang Quah, Miguel Vasconcelos Almeida, Moritz Blumer, Chengwei Ulrika Yuan, Bettina Fischer, Kirsten See, Ben Jackson, Richard Zatha, Bosco Rusuwa, George F. Turner, M. Emília Santos, Hannes Svardal, **Martin Hemberg**, Richard Durbin, Eric Miska, [*Lake Malawi cichlid pangenome graph reveals extensive structural variation driven by transposable elements*](https://genome.cshlp.org/content/early/2025/04/02/gr.279674.124), **Genome Research**, 2025. 
+
 ## <a id="2024"></a>2024
 
 1. Wei E. Gordon, Seungbyn Baek, Hai P. Nguyen, Yien-Ming Kuo, Rachael Bradley, Sarah L. Fong, Nayeon Kim, Alex Galazyuk, Insuk Lee, Melissa R. Ingala, Nancy B. Simmons, Tony Schountz, Lisa Noelle Cooper, Ilias Georgakopoulos-Soares, **Martin Hemberg**, Nadav Ahituv, [*Integrative single-cell characterization of a frugivorous and an insectivorous bat kidney and pancreas*](https://www.nature.com/articles/s41467-023-44186-y), **Nature Communications**, 15 (12), January 2024.
