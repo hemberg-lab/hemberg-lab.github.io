@@ -4,6 +4,14 @@ title: News
 permalink: /news
 ---
 
+### June 16, 2025
+
+Welcome Nicholas Monell! He is also an undergraduate summer student and he will be working on a project to quantify and correct batch effects in spatial transcriptomics data.
+
+### June 9, 2025
+
+Welcome Sudhish Swain! He will be joining us as an undergraduate intern this summer, working on a project to identify therapy resistance mechanisms in cancer.
+
 ### April 4, 2025
 
 <img src="assets/img/tilenlab.jpg" alt="Tilen, lab" width="600"/>

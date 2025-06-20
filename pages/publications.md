@@ -16,6 +16,10 @@ For an up to date list of all publications (including preprints), please see [Go
 
 3. Fu Xiang Quah, Miguel Vasconcelos Almeida, Moritz Blumer, Chengwei Ulrika Yuan, Bettina Fischer, Kirsten See, Ben Jackson, Richard Zatha, Bosco Rusuwa, George F. Turner, M. Emília Santos, Hannes Svardal, **Martin Hemberg**, Richard Durbin, Eric Miska, [*Lake Malawi cichlid pangenome graph reveals extensive structural variation driven by transposable elements*](https://genome.cshlp.org/content/early/2025/04/02/gr.279674.124), **Genome Research**, 2025. 
 
+4. Mayank Mahajan, **Martin Hemberg**, [*Detecting known neoepitopes, gene fusions, transposable elements, and circular RNAs in cell-free RNA*](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf138/8124074), **Bioinformatics**, 41(5), 2025.
+
+5. Dan Hu, Mei Chen, Xuyang Li, Sarah Daley, Peter Morin, Yuyang Han, **Martin Hemberg**, Howard L Weiner, Weiming Xia, [*ApoE ε4-dependent Alteration of CXCR3 + CD127+ CD4+ T cells associates with elevated plasma neurofilament light chain in Alzheimer's disease*](https://journals.sagepub.com/doi/abs/10.1177/13872877251320123), **Journal od Alzheimer's Disease**, 104(3), p792-807, 2025.
+
 ## <a id="2024"></a>2024
 
 1. Wei E. Gordon, Seungbyn Baek, Hai P. Nguyen, Yien-Ming Kuo, Rachael Bradley, Sarah L. Fong, Nayeon Kim, Alex Galazyuk, Insuk Lee, Melissa R. Ingala, Nancy B. Simmons, Tony Schountz, Lisa Noelle Cooper, Ilias Georgakopoulos-Soares, **Martin Hemberg**, Nadav Ahituv, [*Integrative single-cell characterization of a frugivorous and an insectivorous bat kidney and pancreas*](https://www.nature.com/articles/s41467-023-44186-y), **Nature Communications**, 15 (12), January 2024.

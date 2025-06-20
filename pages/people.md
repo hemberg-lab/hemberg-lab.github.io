@@ -39,9 +39,13 @@ permalink: /people
 
 <p style="text-align: center;">Alexa Mitchell (PhD student)</p>
 
+<p style="text-align: center;">Nicholas Monell (summer student)</p>
+
 <img src="assets/img/nikos.jpg" alt="Nikolaos Patikas" width="200"/>
 
 <p style="text-align: center;">Nikolaos Patikas, PhD (Postdoctoral fellow)</p>
+
+<p style="text-align: center;">Sudhish Swain (summer student)</p>
 
 <img src="assets/img/xutang.jpg" alt="Xu Tang" width="200"/>
 
