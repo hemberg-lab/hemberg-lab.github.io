@@ -11,17 +11,13 @@ permalink: /people
 
 ## Current members
 
-<img src="assets/img/jeanna.jpg" alt="Jeanna Abersfeld-Qui" width="200"/>
-
-<p style="text-align: center;">Jeanna Abersfeld-Qui (PhD student)</p>
-
 <img src="assets/img/shaokun.jpg" alt="Shaokun An" width="200"/>
 
 <p style="text-align: center;">Shaokun (Stella) An, PhD (Postdoctoral fellow)</p>
 
-<img src="assets/img/Jingyi_Cao.jpeg" alt="Jingyi Cao" width="200"/>
+<img src="assets/img/jeanna.jpg" alt="Jeanna Arbesfeld-Qui" width="200"/>
 
-<p style="text-align: center;">Jingyi Cao, PhD (Postdoctoral fellow)</p>
+<p style="text-align: center;">Jeanna Arbesfeld-Qui (PhD student)</p>
 
 <img src="assets/img/peterson.jpg" alt="Peterson Gitonga" width="200"/>
 
@@ -47,15 +43,13 @@ permalink: /people
 
 <p style="text-align: center;">Sudhish Swain (summer student)</p>
 
-<img src="assets/img/xutang.jpg" alt="Xu Tang" width="200"/>
-
-<p style="text-align: center;">Xu (Victoria) Tang (Research assistant)</p>
-
 <img src="assets/img/xiaokun.jpg" alt="Xiaokun Yang" width="200"/>
 
 <p style="text-align: center;">Xiaokun Yang (PhD student)</p>
 
-<p style="text-align: center;">Ulrika Yuan (PhD student)</p>
+<img src="assets/img/junke.jpeg" alt="Junke Zhang" width="200"/>
+
+<p style="text-align: center;">Junke Zhang (Postdoctoral scholar)</p>
 
 <p style="text-align: center;">Baohua Zhao (visiting scholar)</p>
 

@@ -18,7 +18,13 @@ For an up to date list of all publications (including preprints), please see [Go
 
 4. Mayank Mahajan, **Martin Hemberg**, [*Detecting known neoepitopes, gene fusions, transposable elements, and circular RNAs in cell-free RNA*](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf138/8124074), **Bioinformatics**, 41(5), 2025.
 
-5. Dan Hu, Mei Chen, Xuyang Li, Sarah Daley, Peter Morin, Yuyang Han, **Martin Hemberg**, Howard L Weiner, Weiming Xia, [*ApoE ε4-dependent Alteration of CXCR3 + CD127+ CD4+ T cells associates with elevated plasma neurofilament light chain in Alzheimer's disease*](https://journals.sagepub.com/doi/abs/10.1177/13872877251320123), **Journal od Alzheimer's Disease**, 104(3), p792-807, 2025.
+5. Dan Hu, Mei Chen, Xuyang Li, Sarah Daley, Peter Morin, Yuyang Han, **Martin Hemberg**, Howard L Weiner, Weiming Xia, [*ApoE ε4-dependent Alteration of CXCR3 + CD127+ CD4+ T cells associates with elevated plasma neurofilament light chain in Alzheimer's disease*](https://journals.sagepub.com/doi/abs/10.1177/13872877251320123), **Journal of Alzheimer's Disease**, 104(3), p792-807, 2025.
+
+6. Seungbyn Baek, Junha Cha, Min Hee Hong, Gamin Kim, Yoon Woo Koh, Dahee Kim, Wonrak Son, Chan‐Young Ock, Seungeun Lee, **Martin Hemberg**, Seong Yong Park, Hye Ryun Kim, Insuk Lee, [*Comparative single‐cell analysis of esophageal cancer subtypes reveals tumor microenvironment distinctions explaining varied immunotherapy responses*](https://pmc.ncbi.nlm.nih.gov/articles/PMC12479127/), **Cancer Communications**, 45(9), p1194, 2025.
+
+7. Ilias Georgakopoulos-Soares, Ofer Yizhar-Barnea, Ioannis Mouratidis, Candace SY Chan, Michail Patsakis, Akshatha Nayak, Rachael Bradley, Mayank Mahajan, Jasmine Sims, Dianne Laboy Cintron, Ryder Easterlin, Julia S Kim, Emmalyn Chen, Geovanni Pineda, Guillermo E Parada, John S Witte, Christopher A Maher, Felix Feng, Ioannis Vathiotis, Nikolaos Syrigos, Emmanouil Panagiotou, Andriani Charpidou, Konstantinos Syrigos, Jocelyn Chapman, Mark Kvale, **Martin Hemberg**, Nadav Ahituv, [*Leveraging sequences missing from the human genome to diagnose cancer*](https://www.nature.com/articles/s43856-025-01067-3), **Communications Medicine**, 5(1), p363, 2025.
+
+8. Jae-Won Cho, Jingyi Cao, **Martin Hemberg**, [*Single-cell splicing QTL analysis in pancreatic islets*](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2025.1657895/full), **Frontiers in Bioinformatics**, 5, 2025.
 
 ## <a id="2024"></a>2024
 
