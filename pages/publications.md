@@ -52,7 +52,6 @@ For an up to date list of all publications (including preprints), please see [Go
 
 12. Timothy PH Sit, Rachael C Feord, Alexander WE Dunn, Jeremi Chabros, David Oluigbo, Hugo H Smith, Lance Burn, Elise Chang, Alessio Boschi, Yin Yuan, George M Gibbons, Mahsa Khayat-Khoei, Francesco De Angelis, Erik Hemberg, **Martin Hemberg**, Madeline A Lancaster, Andras Lakatos, Stephen J Eglen, Ole Paulsen, Susanna B Miera, [*MEA-NAP: A flexible network analysis pipeline for neuronal 2D and 3D organoid multielectrode recordings*](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00291-1), **Cell Reports Methods**, Volume 4, Issue 11, November 2024.
 
-13. Candace SY Chan, Ioannis Mouratidis, Austin Montgomery, Georgios Christos Tsiatsianis, Nikol Chantzi, **Martin Hemberg**, Nadav Ahituv, Ilias Georgakopoulos-Soares, [*The topography of nullomer-emerging mutations and their relevance to human disease*](https://www.sciencedirect.com/science/article/pii/S2001037024004471), **Computational and Structural Biotechnology Journal**, Volume 30, December 2024.
 
 ## <a id="2023"></a>2023
 
