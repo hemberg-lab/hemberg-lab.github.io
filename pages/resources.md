@@ -32,9 +32,11 @@ All of our computational tools are available at our [GitHub](https://github.com/
 
 * [scover](https://github.com/jacobhepkema/scover) is a neural network model in python for *de novo* discovery of regulatory motifs from single-cell data.
 
-* [scfind](https://github.com/hemberg-lab/scfind) is an R package for fast searches of single-cell data.
+* [scfind](https://github.com/hemberg-lab/scfind) is an R package for fast searches of single-cell data, now alos available as a [python](https://github.com/ShaokunAn/tmp-scfind_py) package.
 
 * [scHumanNet](https://github.com/netbiolab/scHumanNet) is an R package for reference guided construction of gene networks in human.
+
+* [scCausalVI](https://github.com/ShaokunAn/scCausalVI) is a python package for causal inference using scRNAseq data.
 
 ### Other genomics methods
 
