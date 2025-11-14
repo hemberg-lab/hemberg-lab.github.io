@@ -26,6 +26,12 @@ For an up to date list of all publications (including preprints), please see [Go
 
 8. Jae-Won Cho, Jingyi Cao, **Martin Hemberg**, [*Single-cell splicing QTL analysis in pancreatic islets*](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2025.1657895/full), **Frontiers in Bioinformatics**, 5, 2025.
 
+9. **Martin Hemberg**, Federico Marini, Shila Ghazanfar, Ahmad Al Ajami, Najla Abassi, Benedict Anchang, Bérénice A Benayoun, Yue Cao, Ken Chen, Yesid Cuesta-Astroz, Zachary DeBruine, Calliope A Dendrou, Iwijn De Vlaminck, Katharina Imkeller, Ilya Korsunsky, Alex R Lederer, Jessica Jingyi Li, Pieter Meysman, Clint L Miller, Kerry A Mullan, Uwe Ohler, Pratibha Panwar, Nikolaos Patikas, Jonas Schuck, Jacqueline HY Siu, Timothy J Triche Jr, Alex Tsankov, Sander W van der Laan, Masanao Yajima, Jean Yang, Fabio Zanini, Ivana Jelic, [*Insights, opportunities, and challenges provided by large cell atlases*](https://link.springer.com/article/10.1186/s13059-025-03771-8), **Genome Biology**, 26(1), p358, 2025.
+
+10. Camilla Panetti, Rahel Daetwyler, Anja Moncsek, Nikolaos Patikas, Andreas Agrafiotis, Adelynn Tang, Francesco Andreata, Valeria Fumagalli, Jean De Lima, Lifen Wen, Carolyn G King, Ajithkumar Vasanthakumar, Matteo Iannacone, Axel Kallies, Alexander Yermanos, **Martin Hemberg**, Nicole Joller, [*The co-inhibitory receptor TIGIT promotes tissue-protective functions in T cells*](https://www.nature.com/articles/s41590-025-02300-w), **Nature Immunology**, 26, p2074-85, 2025.
+
+11. Shaokun An, Jae-Won Cho, Kai Cao, Jiankang Xiong, **Martin Hemberg**, Lin Wan, [*scCausalVI disentangles single-cell perturbation responses with causality-aware generative model*](https://www.cell.com/cell-systems/abstract/S2405-4712(25)00276-5), **Cell Systems**, 2025.
+
 ## <a id="2024"></a>2024
 
 1. Wei E. Gordon, Seungbyn Baek, Hai P. Nguyen, Yien-Ming Kuo, Rachael Bradley, Sarah L. Fong, Nayeon Kim, Alex Galazyuk, Insuk Lee, Melissa R. Ingala, Nancy B. Simmons, Tony Schountz, Lisa Noelle Cooper, Ilias Georgakopoulos-Soares, **Martin Hemberg**, Nadav Ahituv, [*Integrative single-cell characterization of a frugivorous and an insectivorous bat kidney and pancreas*](https://www.nature.com/articles/s41467-023-44186-y), **Nature Communications**, 15 (12), January 2024.
@@ -59,7 +65,7 @@ For an up to date list of all publications (including preprints), please see [Go
 
 2. Kevin Riehl, Michael Neunteufel, **Martin Hemberg**, [*Hierarchical confusion matrix for classification performance evaluation*](https://academic.oup.com/jrsssc/advance-article-abstract/doi/10.1093/jrsssc/qlad057/7217007?redirectedFrom=fulltext), **Journal of the Royal Statistical Society Series C**, July 2023.
 
-3. Jacob Hepkema, Nicholas Keone Lee, Benjamin J Stewart, Siwat Ruangroengkulrith, Varodom Charoensawan, Menna R Clatworthy, **Martin Hemberg**, *[Predicting the impact of sequence motifs on gene regulation using single-cell data*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03021-9), **Genome Biology**, Volume 24, Issue 1, p 1-24, 2023.
+3. Jacob Hepkema, Nicholas Keone Lee, Benjamin J Stewart, Siwat Ruangroengkulrith, Varodom Charoensawan, Menna R Clatworthy, **Martin Hemberg**, [*Predicting the impact of sequence motifs on gene regulation using single-cell data*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03021-9), **Genome Biology**, Volume 24, Issue 1, p 1-24, 2023.
 
 
 ## <a id="2022"></a>2022
