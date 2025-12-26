@@ -11,6 +11,10 @@ permalink: /people
 
 ## Current members
 
+<img src="assets/img/pranay.jpeg" alt="Pranay Ammula" width="200"/>
+
+<p style="text-align: center;">Pranay Ammula, MSc (Research assistant)</p>
+
 <img src="assets/img/shaokun.jpg" alt="Shaokun An" width="200"/>
 
 <p style="text-align: center;">Shaokun (Stella) An, PhD (Postdoctoral fellow)</p>
@@ -21,11 +25,11 @@ permalink: /people
 
 <img src="assets/img/peterson.jpg" alt="Peterson Gitonga" width="200"/>
 
-<p style="text-align: center;">Peterson Gitonga (Postdoctoral fellow)</p>
+<p style="text-align: center;">Peterson Gitonga, PhD (Postdoctoral fellow)</p>
 
 <img src="assets/img/yuyang.jpg" alt="Yuyang Han" width="200"/>
 
-<p style="text-align: center;">Yuyang Han (Data manager)</p>
+<p style="text-align: center;">Yuyang Han, MSc (Data manager)</p>
 
 <img src="assets/img/mh.jpg" alt="Martin Hemberg" width="200"/>
 
@@ -35,13 +39,9 @@ permalink: /people
 
 <p style="text-align: center;">Alexa Mitchell (PhD student)</p>
 
-<p style="text-align: center;">Nicholas Monell (summer student)</p>
-
 <img src="assets/img/nikos.jpg" alt="Nikolaos Patikas" width="200"/>
 
 <p style="text-align: center;">Nikolaos Patikas, PhD (Postdoctoral fellow)</p>
-
-<p style="text-align: center;">Sudhish Swain (summer student)</p>
 
 <img src="assets/img/xiaokun.jpg" alt="Xiaokun Yang" width="200"/>
 
@@ -49,15 +49,13 @@ permalink: /people
 
 <img src="assets/img/junke.jpeg" alt="Junke Zhang" width="200"/>
 
-<p style="text-align: center;">Junke Zhang (Postdoctoral scholar)</p>
+<p style="text-align: center;">Junke Zhang, PhD (Postdoctoral scholar)</p>
 
 <p style="text-align: center;">Baohua Zhao (visiting scholar)</p>
 
 ## Past members (Sanger and BWH)
 
 * Irina Abnizova
-
-* Pranay Ammula
 
 * Tallulah Andrews
 
@@ -67,7 +65,7 @@ permalink: /people
 
 * Junha Cha
 
-* Jae-won Cho
+* Jae-Won Cho
 
 * Ilias Georgakopoulos-Soares
 
@@ -95,6 +93,8 @@ permalink: /people
 
 * Johannes Mofors
 
+* Nicholas Monell
+
 * Ioannis Mouratides
 
 * Laila Norford
@@ -118,6 +118,10 @@ permalink: /people
 * Sravanni Saripalli
 
 * Nicole Staudt
+
+* Sudhish Swain
+
+* Xu (Victoria) Tang
 
 * Tilen Trselic
 

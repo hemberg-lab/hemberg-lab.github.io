@@ -4,6 +4,10 @@ title: News
 permalink: /news
 ---
 
+### October 20, 2025
+
+Welcome back Pranay! Pranay Ammula who was an intern in the lab a year ago has now returned as a research assistant. He will be taking over Victoria's responsibilities on developing the HuBMAP search functionalities and he will also work on the GLI neuroimmune atlas.
+
 ### September 26, 2025
 
 Goodbye Victoria! She is leaving her position as a research assistant, and we wish her all the best in her new industry job.
