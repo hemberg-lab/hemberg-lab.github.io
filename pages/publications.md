@@ -6,7 +6,11 @@ permalink: /publications
 
 For an up to date list of all publications (including preprints), please see [Google scholar](https://scholar.google.com/citations?user=H4jO_DQAAAAJ&hl=en).
 
-[2025](#2025) [2024](#2024) [2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
+[2026](#2026) [2025](#2025) [2024](#2024) [2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
+
+## <a id="2026"></a>2026
+
+1. Jeanna M Arbesfeld-Qiu, Jae-Won Cho, Phuong TT Nguyen, Nicole A Lester, Jennifer Su, Carina Shiau, Jimmy A Guo, Hannah Hoffman, Nicholas J Caldwell, Shugo Muratani, Miranda Galvan, Jessica E Proctor, Zackery A Ely, Steven Wang, Maria Ganci, Ruben Dries, Theodore Hong, Jennifer Wo, Genevieve Boland, Carlos Fernandez-del Castillo, Cristina R Ferrone, Christopher M Heaphy, M Lisa Zhang, Mari Mino-Kenudson, **Martin Hemberg**, William L Hwang, [*Distinct malignant cell states and myeloid glutamate signaling associated with aggressive pancreatic neuroendocrine tumors*](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-25-2565/775485), **Clinical Cancer Research**, 2026.
 
 ## <a id="2025"></a>2025
 
@@ -32,7 +36,9 @@ For an up to date list of all publications (including preprints), please see [Go
 
 11. Shaokun An, Jae-Won Cho, Kai Cao, Jiankang Xiong, **Martin Hemberg**, Lin Wan, [*scCausalVI disentangles single-cell perturbation responses with causality-aware generative model*](https://www.cell.com/cell-systems/abstract/S2405-4712(25)00276-5), **Cell Systems**, 2025.
 
-## <a id="2024"></a>2024
+12. Victoria Gudiño, Jae Won Cho, Berta Caballol, Ángela Sanzo-Machuca, Ana Corraliza, Marisol Veny, Isabella Dotti, Livia Moreira Genaro, Elisa Melón-Ardanaz, Maria Carme Masamunt, Miriam Esteller, Iris Teubel, Lisseth Robbins, Àngel Giner, Cristina Prieto, Elena Ferrer, Raquel Franco Leal, Albert Martin-Cardona, Carme Loras, Maria Esteve, Jordi Rimola, Agnès Fernández-Clotet, Ingrid Ordás, Elena Ricart, Julian Panés, **Martin Hemberg**, Azucena Salas, [*TL1A-activated T cells remodel the rectal mucosa in patients with Crohn’s disease with perianal fistulising disease*](https://gut.bmj.com/content/early/2025/12/25/gutjnl-2025-336246.abstract), **Gut**, 2025.
+
+## <a id="2024">2024</a>
 
 1. Wei E. Gordon, Seungbyn Baek, Hai P. Nguyen, Yien-Ming Kuo, Rachael Bradley, Sarah L. Fong, Nayeon Kim, Alex Galazyuk, Insuk Lee, Melissa R. Ingala, Nancy B. Simmons, Tony Schountz, Lisa Noelle Cooper, Ilias Georgakopoulos-Soares, **Martin Hemberg**, Nadav Ahituv, [*Integrative single-cell characterization of a frugivorous and an insectivorous bat kidney and pancreas*](https://www.nature.com/articles/s41467-023-44186-y), **Nature Communications**, 15 (12), January 2024.
 

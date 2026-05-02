@@ -23,10 +23,6 @@ permalink: /people
 
 <p style="text-align: center;">Jeanna Arbesfeld-Qui (PhD student)</p>
 
-<img src="assets/img/peterson.jpg" alt="Peterson Gitonga" width="200"/>
-
-<p style="text-align: center;">Peterson Gitonga, PhD (Postdoctoral fellow)</p>
-
 <img src="assets/img/yuyang.jpg" alt="Yuyang Han" width="200"/>
 
 <p style="text-align: center;">Yuyang Han, MSc (Data manager)</p>
@@ -51,8 +47,6 @@ permalink: /people
 
 <p style="text-align: center;">Junke Zhang, PhD (Postdoctoral scholar)</p>
 
-<p style="text-align: center;">Baohua Zhao (visiting scholar)</p>
-
 ## Past members (Sanger and BWH)
 
 * Irina Abnizova
@@ -67,7 +61,11 @@ permalink: /people
 
 * Jae-Won Cho
 
+* Srijitha Gangi
+
 * Ilias Georgakopoulos-Soares
+
+* Peterson Gitonga
 
 * Louis-Francois Handfeld
 
@@ -129,3 +127,4 @@ permalink: /people
 
 * Jennifer Westoby
 
+* Baohua Zhao

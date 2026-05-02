@@ -4,6 +4,22 @@ title: News
 permalink: /news
 ---
 
+### April 27, 2026
+
+Everyone in the lab greatly enjoyed the first annual GLI research retreat.
+
+### April 24, 2026
+
+Goodbye Srijitha! In addition to finishing her internship, she will also be graduating from Northeastern University in the coming week. Congratulations and best of luck going forward!
+
+### March 1, 2026
+
+Goodbye Peterson! His postdoc in the Marasco lab is ending and we wish him all the best for the next stage in his career.
+
+### January 12, 2026
+
+Welcome Srijitha! Srijitha Gangi is an MSc student from Northeastern who will be doing one of her internships in the lab.
+
 ### October 20, 2025
 
 Welcome back Pranay! Pranay Ammula who was an intern in the lab a year ago has now returned as a research assistant. He will be taking over Victoria's responsibilities on developing the HuBMAP search functionalities and he will also work on the GLI neuroimmune atlas.
