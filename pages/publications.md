@@ -12,6 +12,10 @@ For an up to date list of all publications (including preprints), please see [Go
 
 1. Jeanna M Arbesfeld-Qiu, Jae-Won Cho, Phuong TT Nguyen, Nicole A Lester, Jennifer Su, Carina Shiau, Jimmy A Guo, Hannah Hoffman, Nicholas J Caldwell, Shugo Muratani, Miranda Galvan, Jessica E Proctor, Zackery A Ely, Steven Wang, Maria Ganci, Ruben Dries, Theodore Hong, Jennifer Wo, Genevieve Boland, Carlos Fernandez-del Castillo, Cristina R Ferrone, Christopher M Heaphy, M Lisa Zhang, Mari Mino-Kenudson, **Martin Hemberg**, William L Hwang, [*Distinct malignant cell states and myeloid glutamate signaling associated with aggressive pancreatic neuroendocrine tumors*](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-25-2565/775485), **Clinical Cancer Research**, 2026.
 
+2. Xixi Zhang, Sherin Xirenayi, Ye Zhao, Wen Wang, Yuyang Han, Miguel Sobral, Shawn Kang, Chi Zhang, Graham L Barlow, Jason Pyrdol, Jae-Won Cho, Kun Huang, Xiaohan Ning, **Martin Hemberg**, Guo-Cheng Yuan, Eliezer M Van Allen, David J Mooney, Kai W Wucherpfennig, [*The CARM1 epigenetic enzyme inhibits cross-presenting dendritic cell function in cancer immunity*](https://www.science.org/doi/abs/10.1126/science.aea1200), **Science**, Vol 393, Issue 6807, 2026.
+
+3. Han-June Kim, Nayeon Kim, Jun Hyung Cha, Wonjong Kim, Junyeong Ma, Jungyeon Kim, Yerin Kim, Sunmo Yang, Sanguine Byun, Eunjung Lee, **Martin Hemberg**, Insuk Lee, [*A genomic catalog of the mouse gut virome reveals features associated with ageing*](https://pmc.ncbi.nlm.nih.gov/articles/PMC13503771/), **Nature Communications**, 17, p8910, 2026.
+
 ## <a id="2025"></a>2025
 
 1. Candace SY Chan, Ioannis Mouratidis, Austin Montgomery, Georgios Christos Tsiatsianis, Nikol Chantzi, **Martin Hemberg**, Nadav Ahituv, Ilias Georgakopoulos-Soares, [*The topography of nullomer-emerging mutations and their relevance to human disease*](https://www.sciencedirect.com/science/article/pii/S2001037024004471), **Computational and Structural Biotechnology Journal**, 30, p1-11, 2025.

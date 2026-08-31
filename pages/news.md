@@ -4,6 +4,14 @@ title: News
 permalink: /news
 ---
 
+### July 24, 2026
+
+Goodbyy Maurya! Best of luck with your final year in college.
+
+### May 11, 2026
+
+Welcome Maurya! Maurya Bookahali will be the sole summer intern this year, and he will work here before returning to NC State in Raleigh.
+
 ### April 27, 2026
 
 Everyone in the lab greatly enjoyed the first annual GLI research retreat.
@@ -91,7 +99,7 @@ Congratulations to Victoria Tang who passed her MSc viva with flying colors toda
 
 ### November 26, 2024
 
-Welcome Baohua Zang who is a visiting scholar who will be working with us for a year.
+Welcome Baohua Zhao who is a visiting scholar who will be working with us for a year.
 
 ### October 21, 2024
 

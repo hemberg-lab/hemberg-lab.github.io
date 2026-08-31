@@ -57,6 +57,8 @@ permalink: /people
 
 * Dorian Bischoff
 
+* Maurya Bookahali
+
 * Junha Cha
 
 * Jae-Won Cho
