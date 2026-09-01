@@ -33,7 +33,7 @@ permalink: /people
 
 <img src="assets/img/alexa.jpeg" alt="Alexa Mitchell" width="200"/>
 
-<p style="text-align: center;">Alexa Mitchell (PhD student)</p>
+<p style="text-align: center;">Alexa Mitchell, PhD (Postdoctoral fellow)</p>
 
 <img src="assets/img/nikos.jpg" alt="Nikolaos Patikas" width="200"/>
 

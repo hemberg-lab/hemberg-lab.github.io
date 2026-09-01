@@ -6,7 +6,11 @@ permalink: /news
 
 ### July 24, 2026
 
-Goodbyy Maurya! Best of luck with your final year in college.
+Goodbye Maurya! Best of luck with your final year in college.
+
+### July 23, 2026
+
+Congratulations to Alexa who passed her viva with flying colors today! From now on to be referred to as "Dr Mitchell".
 
 ### May 11, 2026
 
