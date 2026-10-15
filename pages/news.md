@@ -4,6 +4,20 @@ title: News
 permalink: /news
 ---
 
+### October 1, 2026
+
+Welcome Young! Young Song is a visiting scholar from Seoul National University Hospital, and she will be spending her sabbatical in the lab.
+
+### September 19, 2026
+
+<img src="assets/img/minigolf.jpg" alt="Minigolf" width="600"/>
+
+We enjoyed minigolf, bumper boats, arcade games at Kimball farms. Despite the long line, the ice cream was also worth the wait.
+
+### September 8, 2026
+
+Welcome Shamitha! Shamitha Kyathasandra Vishwanathavidyadhar is an MSc student from Northeastern who will be doing an internship in the lab until December.
+
 ### July 24, 2026
 
 Goodbye Maurya! Best of luck with your final year in college.

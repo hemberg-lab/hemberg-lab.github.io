@@ -31,6 +31,8 @@ permalink: /people
 
 <p style="text-align: center;">Martin Hemberg, PhD (Principal investigator)</p>
 
+<p style="text-align: center;">Shamitha Kyathasandra Vishwanathavidyadhar (Research intern)</p>
+
 <img src="assets/img/alexa.jpeg" alt="Alexa Mitchell" width="200"/>
 
 <p style="text-align: center;">Alexa Mitchell, PhD (Postdoctoral fellow)</p>
@@ -38,6 +40,10 @@ permalink: /people
 <img src="assets/img/nikos.jpg" alt="Nikolaos Patikas" width="200"/>
 
 <p style="text-align: center;">Nikolaos Patikas, PhD (Postdoctoral fellow)</p>
+
+<img src="assets/img/young.jpg" alt="Young Song" width="200"/>
+
+<p style="text-align: center;">Young Song, MD, PhD (Visiting scholar)</p>
 
 <img src="assets/img/xiaokun.jpg" alt="Xiaokun Yang" width="200"/>
 

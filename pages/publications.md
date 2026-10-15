@@ -16,6 +16,10 @@ For an up to date list of all publications (including preprints), please see [Go
 
 3. Han-June Kim, Nayeon Kim, Jun Hyung Cha, Wonjong Kim, Junyeong Ma, Jungyeon Kim, Yerin Kim, Sunmo Yang, Sanguine Byun, Eunjung Lee, **Martin Hemberg**, Insuk Lee, [*A genomic catalog of the mouse gut virome reveals features associated with ageing*](https://pmc.ncbi.nlm.nih.gov/articles/PMC13503771/), **Nature Communications**, 17, p8910, 2026.
 
+4. Sara Blaabjerg Artzi, Dylan Scott Lykke Harwood, Alessio Locallo, Atul Anand, Casper Carstens Lund, Marc Nihøj Klausen, Matilde Righetti, Susanne Brun Madsen, Julie Jacobsen, Nadine Margaretha Hammouda, Maya Jeje Schuang Lü, Nikolaos Patikas, Jingyi Cao, Sven Nelander, Jonathan Frederik Carlsen, Justin D Lathia, Morten Frödin, Dorte Schou Nørøxe, Ulrik Lassen, William L Hwang, Jane Skjøth-Rasmussen, **Martin Hemberg**, Joachim Weischenfeldt, Bjarne W Kristensen, [*Genomic alterations and treatment define spatiotemporal patterns of glioblastoma recurrence*](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-25-2302/788658), **Cancer Discovery**, 2026.
+
+5. Nikol Chantzi, Shiau Wei Liew, Aurell Wijaya, Candace SY Chan, Ioannis Mouratidis, Emilyane de Oliveira Santana Amaral, Yasin Uzun, **Martin Hemberg**, Karen M Vasquez, Chun Kit Kwok, Ilias Georgakopoulos-Soares, [*Landscape and mutational dynamics of G‑quadruplexes across the complete human genome*](https://link.springer.com/content/pdf/10.1186/s13059-026-04255-z_reference.pdf), **Genome Biology**, 2026.
+
 ## <a id="2025"></a>2025
 
 1. Candace SY Chan, Ioannis Mouratidis, Austin Montgomery, Georgios Christos Tsiatsianis, Nikol Chantzi, **Martin Hemberg**, Nadav Ahituv, Ilias Georgakopoulos-Soares, [*The topography of nullomer-emerging mutations and their relevance to human disease*](https://www.sciencedirect.com/science/article/pii/S2001037024004471), **Computational and Structural Biotechnology Journal**, 30, p1-11, 2025.
